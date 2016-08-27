@@ -1,0 +1,21 @@
+{
+  "name": "generator-java-projects"
+  "version": "1.0.0",
+  "description": "Java sample project generator",
+  "main": "index.js",
+  "files": [
+    "generators/gradle",
+    "generators/maven"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "SrinivasGannu",
+  "license": "ISC",
+  "dependencies": {
+    "yeoman-generator": "^0.24.1"
+  }
+}
