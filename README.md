@@ -1,0 +1,1 @@
+# yo-generator-java-projects
